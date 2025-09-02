@@ -1,0 +1,2 @@
+Sends request to terasnap.netlify.app ( AR's terabox api ) to get response via post request, if that gets down, we might need to change the api
+the cookies are already set in /js/stoic.js, if gets auth error or any other issues, verify if the cookie is valid & not yet expired, if expired replace it with fresh one (rn premium cookie is being used)
